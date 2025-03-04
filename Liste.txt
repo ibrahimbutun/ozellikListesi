@@ -1,4 +1,5 @@
--add friends
--send direct messages
--update profile
--share photos
+1 add friends
+2 send direct messages
+3 update profile
+4 share photos
+5 share story
