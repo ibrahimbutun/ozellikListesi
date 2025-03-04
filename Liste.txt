@@ -1,5 +1,5 @@
-1 add friends
+1 share photos
 2 send direct messages
 3 update profile
-4 share photos
+4 add friends
 5 share story
