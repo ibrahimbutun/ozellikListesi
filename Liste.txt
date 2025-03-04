@@ -1,0 +1,4 @@
+-add friends
+-send direct messages
+-update profile
+-share photos
